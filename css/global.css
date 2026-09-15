@@ -1,0 +1,14 @@
+*{ 
+    padding: 0;
+    margin: 0;
+box-sizing: border-box;
+
+}
+
+.continar{  width: 85%;
+    margin: auto; overflow: auto;}
+
+    .float-left{ float: left;}
+    .float-right{ float: right;}
+    section{padding-block:15px ;
+    color: white;}
